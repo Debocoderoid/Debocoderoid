@@ -17,9 +17,9 @@ I'm passionate about building scalable backend systems, solving real-world probl
 
 # 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debojyoti-roy-675458324/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Debocoderoid)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](roydebojyoti31@gmail.com)
 
 ---
 
@@ -128,13 +128,7 @@ Real-time polling platform built using modern backend technologies.
 
 [![Debojyoti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Debocoderoid&theme=tokyo-night)](https://github.com/Debocoderoid)
 
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Debocoderoid&theme=tokyonight&no-frame=true&margin-w=15)
-
----
+--
 
 # 🔥 Current Focus
 
@@ -151,12 +145,6 @@ Real-time polling platform built using modern backend technologies.
 # ✍️ Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-# 📈 Visitor Count
-
-![](https://komarev.com/ghpvc/?username=Debocoderoid&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
